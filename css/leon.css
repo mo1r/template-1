@@ -67,4 +67,7 @@ background-color:#eee;
     margin-bottom: 5px;
     height: 2px;
   }
+  .header .links .icon span:first-child {
+    width: 100%;
+  }
    /* End Header */
