@@ -230,6 +230,15 @@ background-color:#eee;
     padding-bottom: var(--section-padding);
     background-color: var(--section-background);
   } 
+  .portfolio .portfolio-content .card {
+    background-color: white;
+  }
+  .portfolio .portfolio-content .card img {
+    max-width: 100%;
+  }
+  .portfolio .portfolio-content .card .info {
+    padding: 20px;
+  }
 
 
 
