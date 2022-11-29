@@ -101,4 +101,7 @@ background-color:#eee;
     display: none;
     z-index: 1;
   }
+  .header .links:hover ul {
+    display: block;
+  }
    /* End Header */
