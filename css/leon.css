@@ -74,4 +74,7 @@ background-color:#eee;
     width: 60%;
     transition: var(--main-duration);
   }
+  .header .links .icon span:last-child {
+    width: 100%;
+  }
    /* End Header */
