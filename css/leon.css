@@ -56,4 +56,10 @@ background-color:#eee;
   .header .links {
     position: relative;
   }
+  .header .links .icon {
+    width: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }  
    /* End Header */
