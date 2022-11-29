@@ -118,4 +118,11 @@ background-color:#eee;
     border-bottom: 1px solid #ddd;
   }
   /* End Header */
+  /* Start Landing Section */
+.landing {
+    background-image: url(../images/R.jpg);
+    background-size: cover;
+    height: calc(100vh - 64px);
+    position: relative;
+  }
 
