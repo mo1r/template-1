@@ -218,5 +218,11 @@ background-color:#eee;
     text-align: center;
     position: relative;
   }
+  @media (max-width: 1199px) {
+    .image-column {
+      display: none;
+    }
+  }
+  /* End Services  */
 
 
