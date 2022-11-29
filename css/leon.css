@@ -156,5 +156,10 @@ background-color:#eee;
     padding-bottom: var(--section-padding);
     background-color: var(--section-background);
   }
+  .features .container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 20px;
+  }
 
 
