@@ -193,5 +193,15 @@ background-color:#eee;
     display: flex;
     margin-bottom: 40px;
   }
+  @media (max-width: 767px) {
+    .services .services-content .srv {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+  .services .services-content .srv i {
+    color: var(--main-color);
+    flex-basis: 60px;
+  }
 
 
