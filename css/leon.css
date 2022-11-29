@@ -53,4 +53,7 @@ background-color:#eee;
   .header .logo {
     width: 60px;
   }
+  .header .links {
+    position: relative;
+  }
    /* End Header */
