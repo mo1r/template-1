@@ -150,5 +150,11 @@ background-color:#eee;
     line-height: 1.8;
   }
   /* End Landing Section */
+  /* Start Features */
+.features {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+    background-color: var(--section-background);
+  }
 
 
