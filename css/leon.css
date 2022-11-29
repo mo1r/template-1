@@ -13,7 +13,6 @@
   body {
     font-family: "Work Sans", sans-serif;
   }
-  /* End Global Rules */
   .parent{
 background-color:#eee;
   }
@@ -41,3 +40,14 @@ background-color:#eee;
       width: 1170px;
     }
   }
+    /* End Global Rules */
+  /* Start Header */
+.header {
+    padding: 20px;
+  }
+  .header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+   /* End Header */
