@@ -62,4 +62,9 @@ background-color:#eee;
     flex-wrap: wrap;
     justify-content: flex-end;
   }  
+  .header .links .icon span {
+    background-color: #333;
+    margin-bottom: 5px;
+    height: 2px;
+  }
    /* End Header */
